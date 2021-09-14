@@ -1,0 +1,1 @@
+This is the project used to build xgboost.so that will be deployed in Android platform
